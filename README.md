@@ -1,6 +1,17 @@
 # criar-app-cordova
  
-## Instalação
+# Instalação
+## Desenvolvimento geral
+- Visual Studio Code https://code.visualstudio.com/
+    - Extensões recomendadas
+        - Live server
+        - Path Intellisense
+        - Rainbow Brackets
+        - Color Highlights
+- GitHub Desktop https://desktop.github.com/
+
+
+## Instalação para desenvolvimento Cordova
 ### Node.js
 - https://nodejs.org/en/
     - o que é o Node.js?
